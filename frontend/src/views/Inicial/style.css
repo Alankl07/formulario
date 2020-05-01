@@ -1,0 +1,49 @@
+.container-formulario{
+    display: flex;
+    position: relative;
+    top: 200px;
+    left: 100px;
+    align-items: center;
+    justify-content: center;
+    border: black 1pt solid;
+    border-radius: 5px;
+    height: 200px;
+    width: 400px;
+}
+
+.container-ResponderFormulario{
+    display: flex;
+    position: relative;
+    top: -150PX;
+    left: 800px;
+    align-items: center;
+    justify-content: center;
+    border: black 1pt solid;
+    border-radius: 5px;
+    height: 200px;
+    width: 450px;
+}
+
+.container-VerFormularioRespondido{
+    display: flex;
+    position: relative;
+    top: -40px;
+    left: 800px;
+    align-items: center;
+    justify-content: center;
+    border: black 1pt solid;
+    border-radius: 5px;
+    height: 200px;
+    width: 450px;
+}
+
+.input-VerFormulario{
+    height: 25px;
+    border-radius: 5px;
+}
+
+.btn-VerFormulario{
+    height: 33px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
